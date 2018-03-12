@@ -1,6 +1,10 @@
 
 # -*- coding:utf-8 -*-
 
+#LINK PARA VIDEO DO CODIGO FUNCIONANDO NO YOUTUBE:
+#  https://youtu.be/jymfFPgeiqQ
+
+
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
